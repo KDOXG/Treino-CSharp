@@ -1,0 +1,6 @@
+C:\Users\KDOXG\source\repos\Treino-CSharp\Aulas1\bin\x64\Release\ConsoleApplication.exe
+C:\Users\KDOXG\source\repos\Treino-CSharp\Aulas1\bin\x64\Release\ConsoleApplication.pdb
+C:\Users\KDOXG\source\repos\Treino-CSharp\Aulas1\obj\x64\Release\Aulas1.csproj.CoreCompileInputs.cache
+C:\Users\KDOXG\source\repos\Treino-CSharp\Aulas1\obj\x64\Release\ConsoleApplication.exe
+C:\Users\KDOXG\source\repos\Treino-CSharp\Aulas1\obj\x64\Release\ConsoleApplication.pdb
+C:\Users\KDOXG\source\repos\Treino-CSharp\Aulas1\obj\x64\Release\Aulas1.csproj.AssemblyReference.cache
